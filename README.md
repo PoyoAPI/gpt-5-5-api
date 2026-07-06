@@ -9,7 +9,7 @@ Focused server-side examples for building GPT-5.5 chat, coding, and agent workfl
 
 GPT-5.5 is useful for high-accuracy knowledge work, coding assistants, planning agents, and production chat workflows that need a strong general model path.
 
-[Model Page](https://poyo.ai/models/gpt-5-5) | [Docs](https://docs.poyo.ai/api-manual/chat-series/chat-completions) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
+[Try on PoYo](https://poyo.ai/models/gpt-5-5) | [Get API Key](https://poyo.ai/dashboard/api-key) | [Docs](https://docs.poyo.ai/api-manual/chat-series/chat-completions) | [Pricing](https://poyo.ai/pricing) | [Main Examples](https://github.com/PoyoAPI/poyo-examples)
 
 ## What This Repo Covers
 
